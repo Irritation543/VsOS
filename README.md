@@ -1,4 +1,5 @@
 # VsOS
+[For Download full source code, go to releases]
 
 VsOS is a very early 32-bit x86 operating system built for a retro desktop experience inspired by Windows 2000 and 90s-era PCs.
 
