@@ -38,6 +38,6 @@ It is still very raw and incomplete.
 - Some features are minimal or missing.
 - It is a hobby OS, not a production system.
 
-## Goal
+## Other
 
-The goal of VsOS is to create a small, retro-looking operating system with a simple desktop environment and basic multimedia support.
+CMake, C, C++, ASM, Python
